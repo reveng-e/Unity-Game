@@ -33,5 +33,6 @@ public class InputFieldsChecker : MonoBehaviour
                 return true;
             return false;
         }
+        
     }
 }
